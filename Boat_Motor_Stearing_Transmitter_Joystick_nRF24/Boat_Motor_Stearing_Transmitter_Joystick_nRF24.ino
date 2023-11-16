@@ -1,21 +1,4 @@
-/*                          
-Boat_Motor_Stearing_Transmitter_Joystick_nRF24:
-Folder Boat_Motor_Stearing_Transmitter_Joystick_nRF24:
-                             
-                   nRF Tranciver 
-                   1 = GRN  Black   
-                   2 = 3.3v Red
-                   3 = CE   Pin 7  Blue
-                   4 = CSN  Pin 8  Breen
-                   5 = SCK  Pin 13 Yellow
-                   6 = MOSI Pin 11 White
-                   7 = MISO Pin 12 Orange
-                   _______________________
-                  | 1 | 2 |              |
-                  | 3 | 4 |              | 
-                  | 5 | 6 |              |
-                  |_7_|___|______________|
-*/                                 
+                                
 
 #include <Wire.h>
 #include  <SPI.h>
